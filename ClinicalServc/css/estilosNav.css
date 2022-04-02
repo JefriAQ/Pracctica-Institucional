@@ -1,0 +1,66 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+body{
+    background-image: url(../img/white.jpg);
+
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top:20px;
+    padding-bottom:10px;
+}
+
+.butNav{
+    color:#fff;
+    font-size: 20px;
+    margin:10px;
+}
+
+
+
+ a{
+    text-decoration: none;
+}
+
+
+
+
+
+/* .col{
+    height: 300px;
+    padding: 20px;
+    
+} */
+
+.iconCer{
+    width: 75px;
+    
+    margin-left: auto; 
+    margin-right: auto;
+    padding:5px;
+    padding-bottom: 20px;
+}
+h5{
+    font-size:23px;
+}
+
+
+.icof{
+    width: 35px;
+}
+
+.inf{
+    padding: 100px;
+
+}
+.n3{
+    padding-bottom:100px;
+}
+
+section .n3 h3{
+    font-size:16px;
+}
